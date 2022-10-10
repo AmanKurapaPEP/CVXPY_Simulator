@@ -1,0 +1,154 @@
+id,country,channel,current_metrics_time,current_volume_time,analysis_period,category,brand,currency,volume_unit,pack_name,current_volume,channel_pack_mix,price_elasticity,current_price_per_volume,current_price_per_pack,current_volume_per_pack,distribution_type,current_distribution,distribution_elasticity,current_trade,trade_elasticity,input_trade,trade_type
+1,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 240ML,30549,0.3,-7.9,42.2,1.8,0.04,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+2,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 245ML,1494,0.0,-7.9,44.0,4.4,0.1,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+3,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 250ML,57298,0.6,-7.9,45.4,2.0,0.04,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+4,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 320ML,128232,1.4,-0.8,44.2,2.8,0.06,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+5,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 325ML,946158,10.3,-0.8,39.4,16.2,0.41,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+6,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 330ML,1205094,13.1,-0.8,39.6,9.0,0.23,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+7,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 355ML,1692112,18.4,-0.8,42.9,3.1,0.07,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+8,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 360ML,30895,0.3,-0.8,47.3,3.9,0.08,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+9,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  1L,939269,10.2,-1.0,25.7,4.6,0.18,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+10,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,2026107,22.0,-1.7,18.9,8.3,0.44,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+11,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,2161671,23.4,-1.7,20.0,7.9,0.4,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+12,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,Total,9218879,100.0,-1.0,-1.0,-1.0,-1.0,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+13,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 240ML,904861,2.8,-0.1,47.3,2.0,0.04,FSS,0.7,1.5,-1.0,-1.0,-1.0,
+14,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 245ML,319615,1.0,-0.1,46.4,2.0,0.04,FSS,0.4,1.5,-1.0,-1.0,-1.0,
+15,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 250ML,1385136,4.3,-0.1,45.4,2.0,0.04,FSS,1.4,1.5,-1.0,-1.0,-1.0,
+16,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 320ML,6524479,20.2,-0.6,44.3,2.5,0.06,FSS,9.8,1.4,-1.0,-1.0,-1.0,
+17,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 325ML,242691,0.8,-0.6,43.8,2.5,0.06,FSS,0.3,1.4,-1.0,-1.0,-1.0,
+18,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 330ML,6370102,19.7,-0.6,43.9,2.6,0.06,FSS,1.0,1.4,-1.0,-1.0,-1.0,
+19,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 355ML,1369764,4.2,-0.6,40.2,2.5,0.06,FSS,0.1,1.4,-1.0,-1.0,-1.0,
+20,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 360ML,3029675,9.4,-0.6,47.3,3.0,0.06,FSS,2.1,1.4,-1.0,-1.0,-1.0,
+21,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  1L,1976326,6.1,0.0,28.4,5.0,0.18,FSS,2.1,1.5,-1.0,-1.0,-1.0,
+22,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,299605,0.9,-0.2,23.2,9.0,0.39,FSS,1.4,1.6,-1.0,-1.0,-1.0,
+23,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,9878957,30.6,-0.2,22.7,9.0,0.4,FSS,5.5,1.6,-1.0,-1.0,-1.0,
+24,KSA,Eateries,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,Total,32301213,100.0,-1.0,-1.0,-1.0,-1.0,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+25,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 240ML,374944,3.3,-0.3,47.3,2.0,0.04,WD,34.8,1.0,-1.0,-1.0,-1.0,
+26,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 245ML,155988,1.4,-0.3,46.4,2.0,0.04,WD,17.8,1.0,-1.0,-1.0,-1.0,
+27,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 250ML,431523,3.8,-0.3,45.4,2.0,0.04,WD,53.2,1.0,-1.0,-1.0,-1.0,
+28,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 320ML,1350385,12.0,-0.7,44.4,2.5,0.06,WD,83.8,0.2,-1.0,-1.0,-1.0,
+29,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 325ML,70090,0.6,-0.7,42.3,3.1,0.07,WD,10.3,0.2,-1.0,-1.0,-1.0,
+30,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 330ML,1620604,14.4,-0.7,27.5,3.0,0.11,WD,12.1,0.2,-1.0,-1.0,-1.0,
+31,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 355ML,533842,4.7,-0.7,45.4,3.0,0.07,WD,10.0,0.2,-1.0,-1.0,-1.0,
+32,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 360ML,15227,0.1,-0.7,52.6,3.3,0.06,WD,3.9,0.2,-1.0,-1.0,-1.0,
+33,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  1L,1342710,11.9,0.0,28.5,5.0,0.18,WD,91.6,1.7,-1.0,-1.0,-1.0,
+34,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,277393,2.5,-0.1,22.7,8.8,0.39,WD,32.1,0.1,-1.0,-1.0,-1.0,
+35,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,5074317,45.1,-0.1,22.8,9.0,0.4,WD,92.3,0.1,-1.0,-1.0,-1.0,
+36,KSA,Self Service,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,Total,11247023,100.0,-1.0,-1.0,-1.0,-1.0,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+37,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 240ML,578414,2.6,-11.0,47.3,2.0,0.04,TDP,33.5,2.0,-1.0,-1.0,-1.0,
+38,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 245ML,246345,1.1,-11.0,46.4,2.0,0.04,TDP,9.5,2.0,-1.0,-1.0,-1.0,
+39,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 250ML,1118336,5.0,-11.0,45.5,2.0,0.04,TDP,72.4,2.0,-1.0,-1.0,-1.0,
+40,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 320ML,2978908,13.2,-3.9,44.4,2.5,0.06,TDP,186.7,0.4,-1.0,-1.0,-1.0,
+41,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 325ML,176600,0.8,-3.9,43.7,2.5,0.06,TDP,8.4,0.4,-1.0,-1.0,-1.0,
+42,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 330ML,3256241,14.4,-3.9,43.3,2.5,0.06,TDP,11.2,0.4,-1.0,-1.0,-1.0,
+43,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 355ML,686060,3.0,-3.9,43.2,2.7,0.06,TDP,2.8,0.4,-1.0,-1.0,-1.0,
+44,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,CAN 360ML,35295,0.2,-3.9,43.8,2.8,0.06,TDP,6.3,0.4,-1.0,-1.0,-1.0,
+45,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  1L,2970959,13.2,0.0,28.4,5.0,0.18,TDP,91.1,1.3,-1.0,-1.0,-1.0,
+46,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,997850,4.4,-1.7,23.2,9.0,0.39,TDP,57.0,0.0,-1.0,-1.0,-1.0,
+47,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,MSPET  2.2,9502406,42.1,-1.7,22.7,9.0,0.4,TDP,84.4,0.0,-1.0,-1.0,-1.0,
+48,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,Pepsi,SAR,8Oz case,Total,22547413,100.0,-1.0,32.1,-1.0,-1.0,-1,-1.0,-1.0,0.048,0.1,0.048,
+49,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,7UP,SAR,8Oz case,CAN 360ML,30895,0.3,-0.8,47.3,3.9,0.08,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+50,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,7UP,SAR,8Oz case,CAN 355ML,1692112,18.4,-0.8,42.9,3.1,0.07,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+51,KSA,Supermarket,21-May,CY 2020,Jan 2018 to May 2021,Beverages,7UP,SAR,8Oz case,Total,9218879,100.0,-1.0,-1.0,-1.0,-1.0,-1,-1.0,-1.0,-1.0,-1.0,-1.0,
+52,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,7UP,SAR,8Oz case,Total,22547413,100.0,-1.0,32.1,-1.0,-1.0,-1,-1.0,-1.0,0.048,0.1,0.048,
+53,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,7UP,SAR,8Oz case,CAN 355ML,686060,3.0,-3.9,43.2,2.7,0.06,TDP,2.8,0.4,-1.0,-1.0,-1.0,
+54,KSA,Traditional Trade,21-May,CY 2020,Jan 2018 to May 2021,Beverages,7UP,SAR,8Oz case,CAN 360ML,35295,0.2,-3.9,43.8,2.8,0.06,TDP,6.3,0.4,-1.0,-1.0,-1.0,
+55,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,Total,63419,100.0,-1.49,56.82,47.71,0.84,TDP,316.89,0.402,0.005,-1.0,-1.0,Promo
+56,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,300 - 400g,3762,5.93,-1.588,78.23,29.34,0.38,TDP,42.6,0.062,0.005,-1.0,-1.0,Promo
+57,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,400 - 500g,6928,10.92,-1.783,59.95,29.98,0.5,TDP,18.88,0.113,0.018,-1.0,-1.0,Promo
+58,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,750gm - 1k,50342,79.38,-1.528,54.89,57.03,1.04,TDP,68.48,0.494,0.004,-1.0,-1.0,Promo
+59,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,Total,113939,100.0,-1.49,27.41,35.9,1.31,TDP,297.01,0.402,0.027,-1.0,-1.0,Promo
+60,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,400 - 500g,2406,2.11,-5.103,33.25,16.63,0.5,TDP,10.67,2.619,0.002,-1.0,-1.0,Promo
+61,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,750gm - 1k,111533,97.89,-1.425,27.29,37.03,1.36,TDP,107.25,0.363,0.027,-1.0,-1.0,Promo
+62,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,Total,603600,100.0,-2.558,39.17,39.33,1.0,TDP,368.92,-1.0,0.01,2.186,-1.0,Promo
+63,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,400 - 500g,26458,4.38,-0.492,61.28,30.64,0.5,TDP,31.33,-1.0,0.008,20.398,-1.0,Promo
+64,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,500 - 750g,7259,1.2,-1.0,50.33,37.75,0.75,TDP,16.27,-1.0,-1.0,-1.0,-1.0,Promo
+65,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,750gm - 1k,569883,94.41,-2.674,38.01,40.22,1.06,TDP,98.04,-1.0,0.008,1.443,-1.0,Promo
+66,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,Total,118175,100.0,-1.49,58.58,54.89,0.94,TDP,346.97,0.402,0.005,-1.0,-1.0,Promo
+67,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,500 - 750g,28879,24.44,-0.171,70.31,52.77,0.75,TDP,212.54,1.019,0.003,-1.0,-1.0,Promo
+68,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,750gm - 1k,89296,75.56,-1.836,54.78,55.83,1.02,TDP,164.6,0.241,0.004,-1.0,-1.0,Promo
+69,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,Total,72603,100.0,-1.49,93.66,36.31,0.39,TDP,258.33,0.402,0.015,-1.0,-1.0,Promo
+70,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,300 - 400g,72603,100.0,-2.235,93.66,36.31,0.39,TDP,207.06,0.238,0.015,-1.0,-1.0,Promo
+71,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,Total,223429,100.0,-3.782,72.59,45.35,0.62,TDP,392.83,5.071,0.007,-1.0,0.007,Promo
+72,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,400 - 500g,154792,69.28,-4.266,74.21,37.15,0.5,TDP,453.08,5.805,0.007,-1.0,-1.0,Promo
+73,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,1 - 1.5kg,64434,28.84,-2.775,68.86,103.7,1.51,TDP,189.23,3.495,0.01,-1.0,-1.0,Promo
+74,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,Total,2941224,100.0,-1.805,42.8,58.94,1.38,TDP,430.64,2.726,0.026,1.944,0.026,Promo
+75,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,400 - 500g,820650,27.9,-0.957,36.96,45.42,1.23,TDP,202.29,0.916,0.021,1.843,-1.0,Promo
+76,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,750gm - 1k,1254515,42.65,-1.409,43.71,63.27,1.45,TDP,164.62,2.948,0.026,2.076,-1.0,Promo
+77,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,1 - 1.5kg,866059,29.45,-3.294,47.03,67.72,1.44,TDP,101.81,4.465,0.007,1.881,-1.0,Promo
+78,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,Total,968889,100.0,-3.576,16.17,32.7,2.02,TDP,344.36,0.547,0.011,6.833,-1.0,Promo
+79,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,750gm - 1k,672215,69.38,-2.876,16.38,30.06,1.84,TDP,453.12,0.425,0.016,6.066,-1.0,Promo
+80,RSA,Massmart,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,1.5 - 2.5k,296674,30.62,-5.069,15.7,41.3,2.63,TDP,202.5,0.807,0.004,8.466,-1.0,Promo
+81,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,Total,169162,100.0,-1.564,77.58,51.08,0.66,TDP,289.66,0.638,0.007,2.513,-1.0,Promo
+82,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,300 - 400g,19495,11.52,-2.367,108.39,40.65,0.38,TDP,53.35,0.317,0.0,5.399,-1.0,Promo
+83,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,400 - 500g,42007,24.83,-1.229,83.16,41.58,0.5,TDP,69.42,0.404,0.0,2.559,-1.0,Promo
+84,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,500 - 750g,43056,25.45,-1.681,72.63,54.47,0.75,TDP,66.4,0.742,0.015,1.54,-1.0,Promo
+85,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,750gm - 1k,64604,38.19,-1.461,67.95,69.11,1.02,TDP,68.21,0.816,0.0,2.287,-1.0,Promo
+86,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,Total,64711,100.0,-1.564,35.95,32.89,0.91,TDP,109.57,0.638,0.01,2.513,-1.0,Promo
+87,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,400 - 500g,6012,9.29,-9.537,45.76,22.88,0.5,TDP,10.54,1.423,0.0,13.565,-1.0,Promo
+88,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,750gm - 1k,58699,90.71,-0.75,34.94,34.94,1.0,TDP,36.79,0.558,0.008,1.384,-1.0,Promo
+89,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,Total,552245,100.0,-5.342,46.38,43.06,0.93,TDP,266.97,-1.0,0.078,5.862,-1.0,Promo
+90,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,400 - 500g,52119,9.44,-3.812,69.77,34.89,0.5,TDP,53.71,-1.0,0.0,24.988,-1.0,Promo
+91,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,500 - 750g,9508,1.72,-1.0,63.44,47.58,0.75,TDP,10.79,-1.0,0.0,-1.0,-1.0,Promo
+92,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,750gm - 1k,490618,88.84,-5.675,43.56,44.73,1.03,TDP,77.54,-1.0,0.075,3.861,-1.0,Promo
+93,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,Total,382525,100.0,-1.564,78.53,61.59,0.78,TDP,302.07,0.638,0.014,2.513,-1.0,Promo
+94,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,400 - 500g,4782,1.25,-1.0,91.24,45.62,0.5,TDP,19.35,-1.0,0.001,-1.0,-1.0,Promo
+95,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,500 - 750g,301346,78.78,-0.959,80.67,60.51,0.75,TDP,389.63,0.626,0.021,1.636,-1.0,Promo
+96,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,750gm - 1k,76395,19.97,-4.007,69.3,69.3,1.0,TDP,67.44,0.739,0.0,6.072,-1.0,Promo
+97,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,Total,206292,100.0,-1.564,114.4,44.84,0.39,TDP,143.74,0.638,0.008,0.02,-1.0,Promo
+98,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,300 - 400g,187737,91.01,-2.266,115.59,44.66,0.39,TDP,143.64,0.802,0.011,0.028,-1.0,Promo
+99,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,400 - 500g,18010,8.73,-2.551,99.21,49.61,0.5,TDP,23.13,0.799,0.001,0.005,-1.0,Promo
+100,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,Total,581712,100.0,-2.076,91.94,58.46,0.64,TDP,302.44,1.726,0.022,4.346,0.022,Promo
+101,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,400 - 500g,280298,48.19,-3.414,95.21,47.62,0.5,TDP,406.92,1.689,0.027,2.825,-1.0,Promo
+102,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,500 - 750g,230294,39.59,-1.007,89.5,67.12,0.75,TDP,269.92,1.736,0.021,4.692,-1.0,Promo
+103,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,1 - 1.5kg,71105,12.22,-0.247,86.98,130.48,1.5,TDP,75.13,1.836,0.002,9.111,-1.0,Promo
+104,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,Total,5600649,100.0,-1.914,47.68,38.69,0.81,TDP,319.26,0.817,0.034,2.431,0.034,Promo
+105,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,400 - 500g,1024233,18.29,-2.673,52.61,24.97,0.47,TDP,136.4,0.359,0.064,3.949,-1.0,Promo
+106,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,750gm - 1k,4075061,72.76,-1.494,45.81,42.63,0.93,TDP,95.77,0.057,0.015,1.613,-1.0,Promo
+107,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,1 - 1.5kg,501332,8.95,-4.195,52.88,72.37,1.37,TDP,85.5,0.502,0.048,7.03,-1.0,Promo
+108,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,Total,1840001,100.0,-2.75,19.26,21.69,1.13,TDP,309.73,4.796,0.047,1.558,-1.0,Promo
+109,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,750gm - 1k,1427819,77.6,-2.826,19.27,19.27,1.0,TDP,420.71,4.279,0.066,1.113,-1.0,Promo
+110,RSA,PNP,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,1.5 - 2.5k,412182,22.4,-2.541,19.26,38.51,2.0,TDP,181.44,6.226,0.007,2.789,-1.0,Promo
+111,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,Total,289699,100.0,-1.952,71.6,45.35,0.63,TDP,294.31,3.074,0.01,2.279,-1.0,Promo
+112,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,300 - 400g,23398,8.08,-1.567,97.39,36.52,0.38,TDP,37.96,1.285,0.001,7.013,-1.0,Promo
+113,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,400 - 500g,110240,38.05,-1.784,73.57,36.79,0.5,TDP,77.98,5.411,0.028,1.702,-1.0,Promo
+114,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,500 - 750g,55397,19.12,-2.969,68.18,51.13,0.75,TDP,39.12,2.526,0.001,2.664,-1.0,Promo
+115,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoBran,ZAR,KG,750gm - 1k,100665,34.75,-1.625,65.32,65.32,1.0,TDP,46.0,1.59,0.003,1.505,-1.0,Promo
+116,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,Total,1273594,100.0,-1.952,30.57,29.82,0.98,TDP,307.06,-1.0,0.028,2.279,-1.0,Promo
+117,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,400 - 500g,31929,2.51,-4.58,40.7,20.35,0.5,TDP,18.92,-1.0,0.001,27.958,-1.0,Promo
+118,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCook,ZAR,KG,750gm - 1k,1241665,97.49,-1.801,30.31,30.31,1.0,TDP,146.1,-1.0,0.028,0.798,-1.0,Promo
+119,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,Total,3167861,100.0,-4.159,49.71,45.11,0.91,TDP,327.9,4.04,0.085,3.201,-1.0,Promo
+120,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,400 - 500g,271086,8.56,-2.638,64.43,32.22,0.5,TDP,81.54,1.391,0.055,9.511,-1.0,Promo
+121,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,500 - 750g,157260,4.96,-4.273,62.61,46.96,0.75,TDP,56.35,1.767,0.006,17.619,-1.0,Promo
+122,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,750gm - 1k,2739515,86.48,-4.28,47.51,47.51,1.0,TDP,95.46,4.377,0.082,1.942,-1.0,Promo
+123,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,Total,340826,100.0,-1.952,76.64,57.0,0.74,TDP,276.76,-1.0,0.002,2.279,-1.0,Promo
+124,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,400 - 500g,25097,7.36,-7.309,81.81,40.9,0.5,TDP,57.65,-1.0,0.003,5.813,-1.0,Promo
+125,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,500 - 750g,276921,81.25,-1.03,78.01,58.51,0.75,TDP,283.62,-1.0,0.004,1.301,-1.0,Promo
+126,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,NatureSour,ZAR,KG,750gm - 1k,38808,11.39,-5.245,63.47,63.47,1.0,TDP,22.02,-1.0,0.001,7.154,-1.0,Promo
+127,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,Total,357008,100.0,-1.952,102.81,40.12,0.39,TDP,163.79,2.557,0.079,2.191,-1.0,Promo
+128,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,300 - 400g,329334,92.25,-1.71,104.7,40.12,0.38,TDP,148.53,5.187,0.078,2.885,-1.0,Promo
+129,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,Otees,ZAR,KG,400 - 500g,27675,7.75,-4.033,80.26,40.13,0.5,TDP,15.98,5.37,0.089,5.762,-1.0,Promo
+130,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,Total,889585,100.0,-1.735,84.54,47.0,0.56,TDP,299.25,4.382,0.042,2.076,0.042,Promo
+131,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,400 - 500g,519985,58.45,-1.826,85.38,42.69,0.5,TDP,396.54,5.101,0.056,3.569,-1.0,Promo
+132,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,500 - 750g,215012,24.17,-1.771,82.6,61.95,0.75,TDP,145.0,3.887,0.036,1.41,-1.0,Promo
+133,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,ProNutro,ZAR,KG,1 - 1.5kg,145775,16.39,-1.347,82.38,123.56,1.5,TDP,72.6,2.404,0.012,2.78,-1.0,Promo
+134,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,Total,9943690,100.0,-1.67,51.38,38.55,0.75,TDP,328.16,1.531,0.09,2.91,0.09,Promo
+135,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,400 - 500g,2848194,28.64,-1.601,52.09,23.44,0.45,TDP,112.42,2.267,0.117,3.287,-1.0,Promo
+136,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,750gm - 1k,4507667,45.33,-1.699,51.66,46.5,0.9,TDP,96.0,1.001,0.08,2.351,-1.0,Promo
+137,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WeetBix,ZAR,KG,1 - 1.5kg,2587829,26.02,-1.689,50.11,67.65,1.35,TDP,90.04,1.724,0.082,3.533,-1.0,Promo
+138,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,Total,7149591,100.0,-0.748,19.59,21.54,1.1,TDP,327.39,2.307,0.042,3.232,-1.0,Promo
+139,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,750gm - 1k,5857989,81.93,-0.479,19.71,19.71,1.0,TDP,420.52,2.226,0.052,2.321,-1.0,Promo
+140,RSA,Shoprite,4/1/2021,CY 2020,May 2019 to Apr 2021,Cereals,WhiteStar,ZAR,KG,1.5 - 2.5k,1291602,18.07,-1.884,19.07,38.13,2.0,TDP,99.02,2.646,0.009,7.073,-1.0,Promo
+141,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,Total,174893,100.0,-0.118,50.27,42.7,0.85,TDP,31.88,-1.0,0.281,-1.0,-1.0,Trade
+142,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,400 - 500g,29706,16.99,-0.14,64.11,32.06,0.5,TDP,4.25,-1.0,0.259,-1.0,-1.0,Trade
+143,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,500 - 750g,3960,2.26,-2.474,64.32,48.24,0.75,TDP,0.83,-1.0,0.309,-1.0,-1.0,Trade
+144,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,BokomoCorn,ZAR,KG,750gm - 1k,141227,80.75,-0.025,46.97,46.97,1.0,TDP,11.67,-1.0,0.274,-1.0,-1.0,Trade
+145,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,Otees,ZAR,KG,Total,3202,100.0,-0.379,111.96,42.45,0.38,TDP,1.02,0.098,0.316,-1.0,-1.0,Trade
+146,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,Otees,ZAR,KG,300 - 400g,3202,100.0,-0.922,111.96,42.45,0.38,TDP,0.83,0.451,0.316,-1.0,-1.0,Trade
+147,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,WeetBix,ZAR,KG,Total,1172651,100.0,-4.587,54.07,27.55,0.51,TDP,119.5,0.904,0.295,-1.0,0.295,Trade
+148,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,WeetBix,ZAR,KG,400 - 500g,901311,76.86,-3.2,55.32,24.89,0.45,TDP,56.58,0.861,0.355,-1.0,-1.0,Trade
+149,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,WeetBix,ZAR,KG,750gm - 1k,259189,22.1,-8.391,50.12,45.11,0.9,TDP,18.0,1.081,0.289,-1.0,-1.0,Trade
+150,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,WeetBix,ZAR,KG,1 - 1.5kg,10056,0.86,-1.0,46.51,62.79,1.35,TDP,0.83,-1.0,0.24,-1.0,-1.0,Trade
+151,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,WhiteStar,ZAR,KG,Total,2274446,100.0,-1.0,20.02,20.79,1.04,TDP,54.58,0.4,0.469,-1.0,-1.0,Trade
+152,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,WhiteStar,ZAR,KG,750gm - 1k,2106563,92.62,-1.0,20.19,20.19,1.0,TDP,71.25,0.388,0.461,-1.0,-1.0,Trade
+153,RSA,Traditional Trade,4/1/2021,CY 2020,May 2018 to Apr 2021,Cereals,WhiteStar,ZAR,KG,1.5 - 2.5k,167882,7.38,-1.0,17.81,35.62,2.0,TDP,13.0,0.52,0.477,-1.0,-1.0,Trade
